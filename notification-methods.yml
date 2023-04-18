@@ -1,0 +1,7 @@
+methods:
+  lab-slack-random:
+    provider: slack-webhook
+    url: "https://hooks.slack.com/services/***"
+  circle-slack-z-channel:
+    provider: slack-webhook
+    url: "https://hooks.slack.com/services/***"

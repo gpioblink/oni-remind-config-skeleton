@@ -1,0 +1,7 @@
+reminders:
+  zli-todo-remind:
+    repo: my_user_name/repo1
+    method: lab-slack-random
+  lab-slack:
+    repo: my_user_name/repo2
+    method: circle-slack-z-channel
